@@ -1,0 +1,301 @@
+|Season|Team|Team Abb
+0|2015|Golden State Warriors|GSW
+1|2015|Los Angeles Clippers|LAC
+2|2015|Dallas Mavericks|DAL
+3|2015|Oklahoma City Thunder|OKC
+4|2015|Toronto Raptors|TOR
+5|2015|Houston Rockets|HOU
+6|2015|San Antonio Spurs|SAS
+7|2015|Cleveland Cavaliers|CLE
+8|2015|Portland Trail Blazers|POR
+9|2015|Atlanta Hawks|ATL
+10|2015|Phoenix Suns|PHO
+11|2015|Denver Nuggets|DEN
+12|2015|Boston Celtics|BOS
+13|2015|Sacramento Kings|SAC
+14|2015|Chicago Bulls|CHI
+15|2015|New Orleans Pelicans|NOP
+16|2015|Washington Wizards|WAS
+17|2015|Los Angeles Lakers|LAL
+18|2015|Detroit Pistons|DET
+19|2015|Memphis Grizzlies|MEM
+20|2015|Brooklyn Nets|BRK
+21|2015|Minnesota Timberwolves|MIN
+22|2015|Milwaukee Bucks|MIL
+23|2015|Indiana Pacers|IND
+24|2015|Orlando Magic|ORL
+25|2015|Utah Jazz|UTA
+26|2015|Miami Heat|MIA
+27|2015|Charlotte Hornets|CHO
+28|2015|Philadelphia 76ers|PHI
+29|2015|New York Knicks|NYK
+30|2016|Golden State Warriors|GSW
+31|2016|Oklahoma City Thunder|OKC
+32|2016|Sacramento Kings|SAC
+33|2016|Houston Rockets|HOU
+34|2016|Boston Celtics|BOS
+35|2016|Portland Trail Blazers|POR
+36|2016|Los Angeles Clippers|LAC
+37|2016|Cleveland Cavaliers|CLE
+38|2016|Washington Wizards|WAS
+39|2016|San Antonio Spurs|SAS
+40|2016|Charlotte Hornets|CHO
+41|2016|Atlanta Hawks|ATL
+42|2016|Toronto Raptors|TOR
+43|2016|New Orleans Pelicans|NOP
+44|2016|Minnesota Timberwolves|MIN
+45|2016|Dallas Mavericks|DAL
+46|2016|Indiana Pacers|IND
+47|2016|Orlando Magic|ORL
+48|2016|Detroit Pistons|DET
+49|2016|Denver Nuggets|DEN
+50|2016|Chicago Bulls|CHI
+51|2016|Phoenix Suns|PHO
+52|2016|Miami Heat|MIA
+53|2016|Memphis Grizzlies|MEM
+54|2016|Milwaukee Bucks|MIL
+55|2016|Brooklyn Nets|BRK
+56|2016|New York Knicks|NYK
+57|2016|Utah Jazz|UTA
+58|2016|Philadelphia 76ers|PHI
+59|2016|Los Angeles Lakers|LAL
+60|2017|Golden State Warriors|GSW
+61|2017|Houston Rockets|HOU
+62|2017|Denver Nuggets|DEN
+63|2017|Cleveland Cavaliers|CLE
+64|2017|Washington Wizards|WAS
+65|2017|Los Angeles Clippers|LAC
+66|2017|Boston Celtics|BOS
+67|2017|Portland Trail Blazers|POR
+68|2017|Phoenix Suns|PHO
+69|2017|Toronto Raptors|TOR
+70|2017|Oklahoma City Thunder|OKC
+71|2017|Brooklyn Nets|BRK
+72|2017|Minnesota Timberwolves|MIN
+73|2017|San Antonio Spurs|SAS
+74|2017|Indiana Pacers|IND
+75|2017|Charlotte Hornets|CHO
+76|2017|Los Angeles Lakers|LAL
+77|2017|New Orleans Pelicans|NOP
+78|2017|New York Knicks|NYK
+79|2017|Milwaukee Bucks|MIL
+80|2017|Atlanta Hawks|ATL
+81|2017|Miami Heat|MIA
+82|2017|Chicago Bulls|CHI
+83|2017|Sacramento Kings|SAC
+84|2017|Philadelphia 76ers|PHI
+85|2017|Detroit Pistons|DET
+86|2017|Orlando Magic|ORL
+87|2017|Utah Jazz|UTA
+88|2017|Memphis Grizzlies|MEM
+89|2017|Dallas Mavericks|DAL
+90|2018|Golden State Warriors|GSW
+91|2018|Houston Rockets|HOU
+92|2018|New Orleans Pelicans|NOP
+93|2018|Toronto Raptors|TOR
+94|2018|Cleveland Cavaliers|CLE
+95|2018|Denver Nuggets|DEN
+96|2018|Philadelphia 76ers|PHI
+97|2018|Minnesota Timberwolves|MIN
+98|2018|Los Angeles Clippers|LAC
+99|2018|Charlotte Hornets|CHO
+100|2018|Los Angeles Lakers|LAL
+101|2018|Oklahoma City Thunder|OKC
+102|2018|Washington Wizards|WAS
+103|2018|Brooklyn Nets|BRK
+104|2018|Milwaukee Bucks|MIL
+105|2018|Indiana Pacers|IND
+106|2018|Portland Trail Blazers|POR
+107|2018|New York Knicks|NYK
+108|2018|Utah Jazz|UTA
+109|2018|Boston Celtics|BOS
+110|2018|Phoenix Suns|PHO
+111|2018|Detroit Pistons|DET
+112|2018|Miami Heat|MIA
+113|2018|Orlando Magic|ORL
+114|2018|Atlanta Hawks|ATL
+115|2018|Chicago Bulls|CHI
+116|2018|San Antonio Spurs|SAS
+117|2018|Dallas Mavericks|DAL
+118|2018|Memphis Grizzlies|MEM
+119|2018|Sacramento Kings|SAC
+120|2019|Milwaukee Bucks|MIL
+121|2019|Golden State Warriors|GSW
+122|2019|New Orleans Pelicans|NOP
+123|2019|Philadelphia 76ers|PHI
+124|2019|Los Angeles Clippers|LAC
+125|2019|Portland Trail Blazers|POR
+126|2019|Oklahoma City Thunder|OKC
+127|2019|Toronto Raptors|TOR
+128|2019|Sacramento Kings|SAC
+129|2019|Washington Wizards|WAS
+130|2019|Houston Rockets|HOU
+131|2019|Atlanta Hawks|ATL
+132|2019|Minnesota Timberwolves|MIN
+133|2019|Boston Celtics|BOS
+134|2019|Brooklyn Nets|BRK
+135|2019|Los Angeles Lakers|LAL
+136|2019|San Antonio Spurs|SAS
+137|2019|Utah Jazz|UTA
+138|2019|Denver Nuggets|DEN
+139|2019|Charlotte Hornets|CHO
+140|2019|Dallas Mavericks|DAL
+141|2019|Indiana Pacers|IND
+142|2019|Phoenix Suns|PHO
+143|2019|Orlando Magic|ORL
+144|2019|Detroit Pistons|DET
+145|2019|Miami Heat|MIA
+146|2019|Chicago Bulls|CHI
+147|2019|New York Knicks|NYK
+148|2019|Cleveland Cavaliers|CLE
+149|2019|Memphis Grizzlies|MEM
+150|2020|Milwaukee Bucks|MIL
+151|2020|Houston Rockets|HOU
+152|2020|Dallas Mavericks|DAL
+153|2020|Los Angeles Clippers|LAC
+154|2020|New Orleans Pelicans|NOP
+155|2020|Portland Trail Blazers|POR
+156|2020|Washington Wizards|WAS
+157|2020|San Antonio Spurs|SAS
+158|2020|Boston Celtics|BOS
+159|2020|Phoenix Suns|PHO
+160|2020|Los Angeles Lakers|LAL
+161|2020|Minnesota Timberwolves|MIN
+162|2020|Toronto Raptors|TOR
+163|2020|Memphis Grizzlies|MEM
+164|2020|Miami Heat|MIA
+165|2020|Atlanta Hawks|ATL
+166|2020|Brooklyn Nets|BRK
+167|2020|Denver Nuggets|DEN
+168|2020|Utah Jazz|UTA
+169|2020|Philadelphia 76ers|PHI
+170|2020|Oklahoma City Thunder|OKC
+171|2020|Sacramento Kings|SAC
+172|2020|Indiana Pacers|IND
+173|2020|Orlando Magic|ORL
+174|2020|Detroit Pistons|DET
+175|2020|Cleveland Cavaliers|CLE
+176|2020|Chicago Bulls|CHI
+177|2020|Golden State Warriors|GSW
+178|2020|New York Knicks|NYK
+179|2020|Charlotte Hornets|CHO
+180|2021|Milwaukee Bucks|MIL
+181|2021|Brooklyn Nets|BRK
+182|2021|Washington Wizards|WAS
+183|2021|Utah Jazz|UTA
+184|2021|Portland Trail Blazers|POR
+185|2021|Phoenix Suns|PHO
+186|2021|Indiana Pacers|IND
+187|2021|Denver Nuggets|DEN
+188|2021|New Orleans Pelicans|NOP
+189|2021|Los Angeles Clippers|LAC
+190|2021|Atlanta Hawks|ATL
+191|2021|Sacramento Kings|SAC
+192|2021|Golden State Warriors|GSW
+193|2021|Philadelphia 76ers|PHI
+194|2021|Memphis Grizzlies|MEM
+195|2021|Boston Celtics|BOS
+196|2021|Dallas Mavericks|DAL
+197|2021|Minnesota Timberwolves|MIN
+198|2021|Toronto Raptors|TOR
+199|2021|San Antonio Spurs|SAS
+200|2021|Chicago Bulls|CHI
+201|2021|Los Angeles Lakers|LAL
+202|2021|Charlotte Hornets|CHO
+203|2021|Houston Rockets|HOU
+204|2021|Miami Heat|MIA
+205|2021|New York Knicks|NYK
+206|2021|Detroit Pistons|DET
+207|2021|Oklahoma City Thunder|OKC
+208|2021|Orlando Magic|ORL
+209|2021|Cleveland Cavaliers|CLE
+210|2022|Minnesota Timberwolves|MIN
+211|2022|Memphis Grizzlies|MEM
+212|2022|Milwaukee Bucks|MIL
+213|2022|Charlotte Hornets|CHO
+214|2022|Phoenix Suns|PHO
+215|2022|Atlanta Hawks|ATL
+216|2022|Utah Jazz|UTA
+217|2022|San Antonio Spurs|SAS
+218|2022|Brooklyn Nets|BRK
+219|2022|Denver Nuggets|DEN
+220|2022|Los Angeles Lakers|LAL
+221|2022|Boston Celtics|BOS
+222|2022|Chicago Bulls|CHI
+223|2022|Indiana Pacers|IND
+224|2022|Golden State Warriors|GSW
+225|2022|Sacramento Kings|SAC
+226|2022|Miami Heat|MIA
+227|2022|Philadelphia 76ers|PHI
+228|2022|Houston Rockets|HOU
+229|2022|Toronto Raptors|TOR
+230|2022|New Orleans Pelicans|NOP
+231|2022|Washington Wizards|WAS
+232|2022|Los Angeles Clippers|LAC
+233|2022|Dallas Mavericks|DAL
+234|2022|Cleveland Cavaliers|CLE
+235|2022|New York Knicks|NYK
+236|2022|Portland Trail Blazers|POR
+237|2022|Detroit Pistons|DET
+238|2022|Orlando Magic|ORL
+239|2022|Oklahoma City Thunder|OKC
+240|2023|Sacramento Kings|SAC
+241|2023|Golden State Warriors|GSW
+242|2023|Atlanta Hawks|ATL
+243|2023|Boston Celtics|BOS
+244|2023|Oklahoma City Thunder|OKC
+245|2023|Los Angeles Lakers|LAL
+246|2023|Utah Jazz|UTA
+247|2023|Memphis Grizzlies|MEM
+248|2023|Milwaukee Bucks|MIL
+249|2023|Indiana Pacers|IND
+250|2023|New York Knicks|NYK
+251|2023|Denver Nuggets|DEN
+252|2023|Minnesota Timberwolves|MIN
+253|2023|Philadelphia 76ers|PHI
+254|2023|New Orleans Pelicans|NOP
+255|2023|Dallas Mavericks|DAL
+256|2023|Phoenix Suns|PHO
+257|2023|Los Angeles Clippers|LAC
+258|2023|Portland Trail Blazers|POR
+259|2023|Brooklyn Nets|BRK
+260|2023|Washington Wizards|WAS
+261|2023|Chicago Bulls|CHI
+262|2023|San Antonio Spurs|SAS
+263|2023|Toronto Raptors|TOR
+264|2023|Cleveland Cavaliers|CLE
+265|2023|Orlando Magic|ORL
+266|2023|Charlotte Hornets|CHO
+267|2023|Houston Rockets|HOU
+268|2023|Detroit Pistons|DET
+269|2023|Miami Heat|MIA
+270|2024|Indiana Pacers|IND
+271|2024|Boston Celtics|BOS
+272|2024|Oklahoma City Thunder|OKC
+273|2024|Milwaukee Bucks|MIL
+274|2024|Atlanta Hawks|ATL
+275|2024|Los Angeles Lakers|LAL
+276|2024|Dallas Mavericks|DAL
+277|2024|Golden State Warriors|GSW
+278|2024|Sacramento Kings|SAC
+279|2024|Phoenix Suns|PHO
+280|2024|Utah Jazz|UTA
+281|2024|Los Angeles Clippers|LAC
+282|2024|New Orleans Pelicans|NOP
+283|2024|Denver Nuggets|DEN
+284|2024|Philadelphia 76ers|PHI
+285|2024|Houston Rockets|HOU
+286|2024|Washington Wizards|WAS
+287|2024|Minnesota Timberwolves|MIN
+288|2024|New York Knicks|NYK
+289|2024|Cleveland Cavaliers|CLE
+290|2024|Toronto Raptors|TOR
+291|2024|Chicago Bulls|CHI
+292|2024|San Antonio Spurs|SAS
+293|2024|Orlando Magic|ORL
+294|2024|Brooklyn Nets|BRK
+295|2024|Miami Heat|MIA
+296|2024|Detroit Pistons|DET
+297|2024|Charlotte Hornets|CHO
+298|2024|Portland Trail Blazers|POR
+299|2024|Memphis Grizzlies|MEM
